@@ -25,4 +25,4 @@ spec:
     matchLabels:
       apps: my-app
   
-  replicas: 4
+  replicas: 10
